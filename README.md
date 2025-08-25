@@ -1,6 +1,6 @@
 # MpNS-Uploader
 
-A minimal decentralized name system for mapping human-readable names to IPFS hashes. Includes a Solidity smart contract deployed via Hardhat and a React frontend for uploading files and resolving names.
+A minimal decentralized name system for mapping human-readable names to IPFS hashes. Includes a Solidity smart contract deployed via Hardhat and a React frontend for uploading files and resolving names. Stands for Metaverse platform Naming System.
 
 ## Prerequisites
 - Node.js >= 16
